@@ -1,2 +1,2 @@
-# Redux Todo App
+# Todo App
 
